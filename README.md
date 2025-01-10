@@ -1,1 +1,1 @@
-# BigDataAnalytics-for-Finance
+# Predicting Residential Property Values for Cook County
